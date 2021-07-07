@@ -9,7 +9,7 @@ a{text-decoration: none;
 
 .container{width: 1200px;
 margin: 0 auto;
-padding-top:36px}
+}
 
 .cor-white{color: #fff;}
 .cor-red{color: #A00404;}
@@ -26,7 +26,7 @@ padding-top:36px}
     line-height: 1.5;}
 
 .mb-lg{margin-bottom: 72px;}
-.mb-md{margin-bottom: 36px;}
+.mb-md{margin-bottom: 48px;}
 .mb-sm{margin-bottom: 24px;}
 
 .pad-fr{padding: 0 16px;}
@@ -38,6 +38,9 @@ padding-top:36px}
 .border-b-sw{border-bottom: 1px solid #fff;}
 
 /* ===個別設計區=== */
+.banner{padding-top: 36px;}
+/*  對 我知道設計稿上是37  但我覺得不合理@@*/
+
 .tech {width: 996px;
     margin: 0 auto;
     padding: 16px;}
