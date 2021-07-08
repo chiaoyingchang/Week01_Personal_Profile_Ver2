@@ -38,7 +38,7 @@ margin: 0 auto;
 .border-b-sw{border-bottom: 1px solid #fff;}
 
 /* ===個別設計區=== */
-.banner{padding-top: 36px;}
+.banner{margin-top: 36px;}
 /*  對 我知道設計稿上是37  但我覺得不合理@@*/
 
 .tech {width: 996px;
